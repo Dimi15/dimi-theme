@@ -1,8 +1,6 @@
-# Minimalist Theme
+# Dimi Theme
 
-> A dark theme for [Visual Studio Code](https://code.visualstudio.com/).
-
-![Card Logo](https://raw.githubusercontent.com/Dimi15/minimalist-theme/master/images/cardLogo.png "Card Logo")
+![Card Logo](./img/cardLogo.png "Card Logo")
 
 #
 
@@ -27,7 +25,7 @@
     "terminal.integrated.fontSize": 15,
     "terminal.integrated.smoothScrolling": true,
 
-    "workbench.colorTheme": "Minimalist Theme", // or variants
+    "workbench.colorTheme": "Dimi Theme (Default)", // or variants
     "workbench.statusBar.visible": false,
     "workbench.list.smoothScrolling": true,
     "workbench.layoutControl.enabled": false,
@@ -42,28 +40,10 @@
 
 #
 
-## Colour Palette
-
-#
-
-| Minimalist Theme&nbsp;&nbsp;                                              | Minimalist Theme (Darker)&nbsp;&nbsp;                               | Minimalist Theme (Eye Protection)&nbsp;&nbsp;                       |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![#8dc5d5](./images/colourPalettes/minimalistTheme/#8dc5d5.png) `#8dc5d5` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e`       | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` |
-
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for Minimalist Theme
+2. Search for Dimi Theme
 3. Click Install to install it
 4. Click Reload to reload your editor
-5. Code/File ＞ Preferences ＞ Color Theme ＞ Minimalist Theme
+5. Code/File ＞ Preferences ＞ Color Theme ＞ Dimi Theme
