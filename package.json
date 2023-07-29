@@ -1,0 +1,44 @@
+{
+    "name": "dimi-theme",
+    "displayName": "Dimi Theme",
+    "description": "The Official Dimi Theme.",
+    "version": "0.0.1",
+    "publisher": "Dimi",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dimi Theme (Default)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimiTheme-default.json"
+            },
+            {
+                "label": "Dimi Theme (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimiTheme-dark.json"
+            },
+            {
+                "label": "Dimi Theme (Darker)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimiTheme-darker.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "dark theme",
+        "dimi",
+        "dimi theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dimi15/minimalist-theme"
+    }
+}
