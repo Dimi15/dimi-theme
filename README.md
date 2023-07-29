@@ -1,6 +1,6 @@
 # Dimi Theme
 
-![Card Logo](./img/cardLogo.png "Card Logo")
+![Card Logo](https://raw.githubusercontent.com/Dimi15/dimi-theme/main/img/cardLogo.png "Card Logo")
 
 #
 
@@ -25,7 +25,7 @@
     "terminal.integrated.fontSize": 15,
     "terminal.integrated.smoothScrolling": true,
 
-    "workbench.colorTheme": "Dimi Theme (Default)", // or variants
+    "workbench.colorTheme": "Dimi Theme", // or variants
     "workbench.statusBar.visible": false,
     "workbench.list.smoothScrolling": true,
     "workbench.layoutControl.enabled": false,
