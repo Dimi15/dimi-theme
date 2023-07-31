@@ -22,7 +22,7 @@
     "editor.minimap.renderCharacters": false,
 
     "terminal.integrated.fontFamily": "JetBrains Mono",
-    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontSize": 14.4,
     "terminal.integrated.smoothScrolling": true,
 
     "workbench.colorTheme": "Dimi Theme", // or variants
@@ -37,6 +37,17 @@
 ```
 
 ##### JetBrains Mono Font Download: https://www.jetbrains.com/lp/mono/
+
+#
+
+## Colour Palette
+
+| a                                                 | a                                                 |
+| ------------------------------------------------- | ------------------------------------------------- |
+| ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") | ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") |
+| ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") | ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") |
+| ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") | ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") |
+| ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") | ![#3b4252](./img/colourPalette/#3b4252 "#3b4252") |
 
 #
 
