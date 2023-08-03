@@ -6,20 +6,20 @@ All notable changes to this project will be documented in this file.
 
 **v1.0.1**
 
-> 03rd August 2023
+> 03 August 2023
 
 -   Updated the logo colours.
 -   Updated README.md.
 
 **v1.0.0**
 
-> 31st July 2023
+> 31 July 2023
 
 -   Fixed the colour themes.
 -   Added the colour palette in README.md.
 
 **v0.1.0**
 
-> 29th July 2023
+> 29 July 2023
 
 -   Initial release.

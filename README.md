@@ -1,6 +1,6 @@
 # Dimi Theme
 
-![Card Logo](./img/cardLogo.png "Card Logo")
+![Card Logo](https://raw.githubusercontent.com/Dimi15/dimi-theme/main/img/cardLogo.png "Card Logo")
 
 #
 
