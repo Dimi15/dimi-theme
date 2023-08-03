@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 #
 
+**v1.0.1**
+
+> 03rd August 2023
+
+-   Updated the logo colours.
+-   Updated README.md.
+
 **v1.0.0**
 
 > 31st July 2023
