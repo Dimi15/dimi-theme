@@ -4,7 +4,7 @@
     "description": "The Official Dimi Theme.",
     "version": "1.0.2",
     "publisher": "Dimi",
-    "icon": "./img/themeLogo/icon.png",
+    "icon": "img/themeLogo/icon.png",
     "engines": {
         "vscode": "^1.20.0"
     },
