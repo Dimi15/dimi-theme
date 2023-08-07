@@ -1,6 +1,6 @@
 # Dimi Theme
 
-![Card Logo](https://raw.githubusercontent.com/Dimi15/dimi-theme/main/img/cardLogo.png "Card Logo")
+![Card Logo](./img/themeLogo/cardLogo.png "Card Logo")
 
 #
 
@@ -15,6 +15,7 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontSize": 14.4,
     "editor.lineHeight": 1.5,
+    "editor.fontWeight": 500,
     "editor.formatOnSave": true,
     "editor.fontLigatures": true,
     "editor.smoothScrolling": true,
@@ -31,7 +32,9 @@
     "workbench.layoutControl.enabled": false,
 
     "window.title": " ",
+    "window.titleBarStyle": "custom",
     "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
     "breadcrumbs.enabled": false,
 }
 ```

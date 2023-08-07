@@ -30,6 +30,7 @@
         "debugConsoleInputIcon.foreground": "#7797b7",
         "debugExceptionWidget.background": "#424c60",
         "debugExceptionWidget.border": "#242a36",
+        "debugIcon.breakpointForeground": "#ff5a5a",
         "debugToolBar.background": "#313848",
         "descriptionForeground": "#ced4dfe6",
         "diffEditor.insertedTextBackground": "#7797b733",
