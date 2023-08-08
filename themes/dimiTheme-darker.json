@@ -382,19 +382,27 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#81A1C1"
+                "foreground": "#81A1C1",
+                "fontStyle": "bold"
             }
         },
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#81A1C1"
+                "foreground": "#81A1C1",
+                "fontStyle": "none"
             }
         },
         {
             "scope": "keyword.other.new",
             "settings": {
                 "foreground": "#81A1C1"
+            }
+        },
+        {
+            "scope": "keyword.other.unit",
+            "settings": {
+                "fontStyle": "none"
             }
         },
         {
@@ -489,7 +497,14 @@
         {
             "scope": "storage",
             "settings": {
-                "foreground": "#81A1C1"
+                "foreground": "#81A1C1",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "storage.type.function.arrow.js",
+            "settings": {
+                "fontStyle": "none"
             }
         },
         {
@@ -573,7 +588,8 @@
         {
             "scope": "variable.language",
             "settings": {
-                "foreground": "#81A1C1"
+                "foreground": "#81A1C1",
+                "fontStyle": "bold"
             }
         },
         {
@@ -1040,6 +1056,12 @@
             ],
             "settings": {
                 "foreground": "#88C0D0"
+            }
+        },
+        {
+            "scope": "support.function.construct.output.php",
+            "settings": {
+                "fontStyle": "bold"
             }
         },
         {

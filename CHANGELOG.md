@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 #
 
+**v1.0.3**
+
+> 08 August 2023
+
+-   Changed the fontstyle of the keywords to bold.
+-   Updated README.md.
+
 **v1.0.2**
 
 > 07 August 2023

@@ -15,7 +15,6 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontSize": 14.4,
     "editor.lineHeight": 1.5,
-    "editor.fontWeight": 500,
     "editor.formatOnSave": true,
     "editor.fontLigatures": true,
     "editor.smoothScrolling": true,
