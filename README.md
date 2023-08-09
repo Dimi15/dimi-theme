@@ -58,6 +58,41 @@
 
 #
 
+## Tweaks & Theming
+
+If you want to play around with new colours, use the settings `workbench.colorCustomizations` and `editor.tokenColorCustomizations` to customize the currently selected theme.
+
+#### **Disable Bold Keywords**
+
+```
+"editor.tokenColorCustomizations": {
+        "[Dimi Theme]": { // or variants
+            "textMateRules": [
+                {
+                    "scope": [
+                        "keyword",
+                        "keyword.operator.expression",
+                        "storage",
+                        "variable.language",
+                        "support.function.construct.output.php"
+                    ],
+                    "settings": {
+                        "fontStyle": ""
+                    }
+                }
+            ]
+        }
+    }
+```
+
+#
+
+## Contributing
+
+See something strange? Please report [here](https://github.com/Dimi15/dimi-theme/issues). A screenshot would be great for clarification purposes.
+
+#
+
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code

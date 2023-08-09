@@ -1,8 +1,8 @@
 {
     "name": "dimi",
     "displayName": "Dimi Theme",
-    "description": "The Official Dimi Theme.",
-    "version": "1.0.3",
+    "description": "A Dark Theme based on the Nord Palette.",
+    "version": "1.0.4",
     "publisher": "Dimi",
     "icon": "img/themeLogo/icon.png",
     "engines": {
@@ -35,7 +35,10 @@
         "dark",
         "dark theme",
         "dimi",
-        "dimi theme"
+        "dimi theme",
+        "nord",
+        "nord theme",
+        "nord dark"
     ],
     "repository": {
         "type": "git",

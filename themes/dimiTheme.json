@@ -390,7 +390,13 @@
             "scope": "keyword.operator",
             "settings": {
                 "foreground": "#81A1C1",
-                "fontStyle": "none"
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": "keyword.operator.expression",
+            "settings": {
+                "fontStyle": "bold"
             }
         },
         {
@@ -402,7 +408,7 @@
         {
             "scope": "keyword.other.unit",
             "settings": {
-                "fontStyle": "none"
+                "fontStyle": ""
             }
         },
         {
@@ -504,7 +510,7 @@
         {
             "scope": "storage.type.function.arrow.js",
             "settings": {
-                "fontStyle": "none"
+                "fontStyle": ""
             }
         },
         {
