@@ -70,7 +70,7 @@
         "editorCursor.foreground": "#c9cfda",
         "editorError.border": "#b0525b00",
         "editorError.foreground": "#b0525b",
-        "editorGroup.border": "#2c334301",
+        "editorGroup.border": "#2c3343",
         "editorGroup.dropBackground": "#2c334399",
         "editorGroupHeader.border": "#2c334300",
         "editorGroupHeader.noTabsBackground": "#1f2531",
@@ -382,33 +382,19 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#81A1C1",
-                "fontStyle": "bold"
+                "foreground": "#81A1C1"
             }
         },
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#81A1C1",
-                "fontStyle": ""
-            }
-        },
-        {
-            "scope": "keyword.operator.expression",
-            "settings": {
-                "fontStyle": "bold"
+                "foreground": "#81A1C1"
             }
         },
         {
             "scope": "keyword.other.new",
             "settings": {
                 "foreground": "#81A1C1"
-            }
-        },
-        {
-            "scope": "keyword.other.unit",
-            "settings": {
-                "fontStyle": ""
             }
         },
         {
@@ -503,14 +489,7 @@
         {
             "scope": "storage",
             "settings": {
-                "foreground": "#81A1C1",
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "scope": "storage.type.function.arrow.js",
-            "settings": {
-                "fontStyle": ""
+                "foreground": "#81A1C1"
             }
         },
         {
@@ -594,8 +573,7 @@
         {
             "scope": "variable.language",
             "settings": {
-                "foreground": "#81A1C1",
-                "fontStyle": "bold"
+                "foreground": "#81A1C1"
             }
         },
         {
@@ -1062,12 +1040,6 @@
             ],
             "settings": {
                 "foreground": "#88C0D0"
-            }
-        },
-        {
-            "scope": "support.function.construct.output.php",
-            "settings": {
-                "fontStyle": "bold"
             }
         },
         {

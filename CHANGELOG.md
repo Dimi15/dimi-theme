@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 #
 
+**v1.0.5**
+
+> 10 August 2023
+
+-   Fixed border issue.
+-   Removed bold keywords by default.
+-   Updated README.md.
+
 **v1.0.4**
 
 > 09 August 2023

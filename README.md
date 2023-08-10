@@ -1,6 +1,6 @@
 # Dimi Theme
 
-![Card Logo](https://raw.githubusercontent.com/Dimi15/dimi-theme/main/img/themeLogo/cardLogo.png "Card Logo")
+![Card Logo](./img/themeLogo/cardLogo.png "Card Logo")
 
 #
 
@@ -10,11 +10,11 @@
 {
     "editor.fontFamily": "JetBrains Mono",
     "editor.cursorBlinking": "smooth",
-    "editor.scrollbar.vertical": "hidden",
-    "editor.scrollbar.horizontal": "hidden",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontSize": 14.4,
     "editor.lineHeight": 1.5,
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.scrollbar.horizontalScrollbarSize": 0,
     "editor.formatOnSave": true,
     "editor.fontLigatures": true,
     "editor.smoothScrolling": true,
@@ -60,9 +60,43 @@
 
 ## Tweaks & Theming
 
-If you want to play around with new colours, use the settings `workbench.colorCustomizations` and `editor.tokenColorCustomizations` to customize the currently selected theme.
+If you want to play around with new colours, use the settings `workbench.colorCustomizations` and `editor.tokenColorCustomizations` in `settings.json` to customize the currently selected theme.
 
-#### **Disable Bold Keywords**
+#### **Enable Italics**
+
+```
+"editor.tokenColorCustomizations": {
+        "[Dimi Theme]": { // or variants
+            "textMateRules": [
+                {
+                    "scope": [
+                        "comment",
+                        "keyword",
+                        "keyword.operator.expression",
+                        "storage",
+                        "variable.language",
+                        "support.function.construct.output.php"
+                    ],
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                },
+                {
+                    "scope": [
+                        "keyword.operator",
+                        "keyword.other.unit",
+                        "storage.type.function.arrow.js"
+                    ],
+                    "settings": {
+                        "fontStyle": ""
+                    }
+                }
+            ]
+        }
+    }
+```
+
+#### **Enable Bold Keywords**
 
 ```
 "editor.tokenColorCustomizations": {
@@ -75,6 +109,16 @@ If you want to play around with new colours, use the settings `workbench.colorCu
                         "storage",
                         "variable.language",
                         "support.function.construct.output.php"
+                    ],
+                    "settings": {
+                        "fontStyle": "bold"
+                    }
+                },
+                {
+                    "scope": [
+                        "keyword.operator",
+                        "keyword.other.unit",
+                        "storage.type.function.arrow.js"
                     ],
                     "settings": {
                         "fontStyle": ""
