@@ -118,7 +118,7 @@
         "editorSuggestWidget.selectedForeground": "#c9cfda",
         "editorWarning.border": "#dcbc7c00",
         "editorWarning.foreground": "#dcbc7c",
-        "editorWhitespace.foreground": "#3d475bb3",
+        "editorWhitespace.foreground": "#3d475b00",
         "editorWidget.background": "#1f2531",
         "editorWidget.border": "#2c3343",
         "errorForeground": "#b0525b",
