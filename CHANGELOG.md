@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 #
 
+**v1.0.7**
+
+> 16 August 2023
+
+-   Updated README.md.
+
 **v1.0.6**
 
 > 14 August 2023

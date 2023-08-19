@@ -2,9 +2,13 @@
     "name": "dimi",
     "displayName": "Dimi Theme",
     "description": "A Dark Theme based on the Nord Palette.",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "publisher": "Dimi",
+    "pricing": "free",
     "icon": "img/themeLogo/icon.png",
+    "sponsor": {
+        "url": "https://github.com/Dimi15"
+    },
     "engines": {
         "vscode": "^1.20.0"
     },

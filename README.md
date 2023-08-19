@@ -13,28 +13,13 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontSize": 14.4,
     "editor.lineHeight": 1.5,
-    "editor.scrollbar.verticalScrollbarSize": 0,
-    "editor.scrollbar.horizontalScrollbarSize": 0,
-    "editor.formatOnSave": true,
     "editor.fontLigatures": true,
     "editor.smoothScrolling": true,
-    "editor.minimap.autohide": true,
-    "editor.minimap.renderCharacters": false,
-
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontSize": 14.4,
     "terminal.integrated.smoothScrolling": true,
-
     "workbench.colorTheme": "Dimi Theme", // or variants
-    "workbench.statusBar.visible": false,
     "workbench.list.smoothScrolling": true,
-    "workbench.layoutControl.enabled": false,
-
-    "window.title": " ",
-    "window.titleBarStyle": "custom",
-    "window.menuBarVisibility": "compact",
-    "window.commandCenter": false,
-    "breadcrumbs.enabled": false,
 }
 ```
 
@@ -66,7 +51,7 @@ If you want to play around with new colours, use the settings `workbench.colorCu
 
 ```
 "editor.tokenColorCustomizations": {
-        "[Dimi Theme]": { // or variants
+        "[Dimi Theme], [Dimi Theme (Dark)], [Dimi Theme (Darker)]": {
             "textMateRules": [
                 {
                     "scope": [
@@ -100,7 +85,7 @@ If you want to play around with new colours, use the settings `workbench.colorCu
 
 ```
 "editor.tokenColorCustomizations": {
-        "[Dimi Theme]": { // or variants
+        "[Dimi Theme], [Dimi Theme (Dark)], [Dimi Theme (Darker)]": {
             "textMateRules": [
                 {
                     "scope": [
