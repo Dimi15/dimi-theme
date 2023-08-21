@@ -2,9 +2,10 @@
     "name": "dimi",
     "displayName": "Dimi Theme",
     "description": "A Dark Theme based on the Nord Palette.",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "publisher": "Dimi",
     "pricing": "Free",
+    "license": "MIT",
     "icon": "img/themeLogo/icon.png",
     "sponsor": {
         "url": "https://github.com/Dimi15"
@@ -32,6 +33,13 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/dimiTheme-darker.json"
             }
+        ],
+        "iconThemes": [
+            {
+                "id": "Dimi Theme Icons",
+                "label": "Dimi Theme Icons",
+                "path": "./themes/icon-theme/dimi-icons.json"
+            }
         ]
     },
     "keywords": [
@@ -42,7 +50,12 @@
         "dimi theme",
         "nord",
         "nord theme",
-        "nord dark"
+        "nord dark",
+        "icon",
+        "icons",
+        "icon pack",
+        "seti",
+        "minimal"
     ],
     "repository": {
         "type": "git",

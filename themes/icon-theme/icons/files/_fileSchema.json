@@ -1,0 +1,59 @@
+{
+    "iconDefinitions": {
+        "_file_default": {
+            "iconPath": "./icons/files/default.svg"
+        },
+        "_file_default_light": {
+            "iconPath": "./icons/files/default_light.svg"
+        },
+        "_file_svelte": {
+            "iconPath": "./icons/files/svelte.svg"
+        },
+        "_file_svelte_page": {
+            "iconPath": "./icons/files/svelte_page.svg"
+        },
+        "_file_svelte_layout": {
+            "iconPath": "./icons/files/svelte_layout.svg"
+        },
+        "_file_svelte_error": {
+            "iconPath": "./icons/files/svelte_error.svg"
+        },
+        "_file_script_page": {
+            "iconPath": "./icons/files/script_page.svg"
+        },
+        "_file_script_page_server": {
+            "iconPath": "./icons/files/script_page_server.svg"
+        },
+        "_file_script_layout": {
+            "iconPath": "./icons/files/script_layout.svg"
+        },
+        "_file_script_layout_server": {
+            "iconPath": "./icons/files/script_layout_server.svg"
+        },
+        "_file_script_server": {
+            "iconPath": "./icons/files/script_server.svg"
+        }
+    },
+    "file": "_file_default",
+    "fileExtensions": {
+        "svelte": "_file_svelte"
+    },
+    "fileNames": {
+        "+error.svelte": "_file_svelte_error",
+        "+layout.server.ts": "_file_script_layout_server",
+        "+layout.server.js": "_file_script_layout_server",
+        "+layout.svelte": "_file_svelte_layout",
+        "+layout.ts": "_file_script_layout",
+        "+layout.js": "_file_script_layout",
+        "+page.server.ts": "_file_script_page_server",
+        "+page.server.js": "_file_script_page_server",
+        "+page.svelte": "_file_svelte_page",
+        "+page.ts": "_file_script_page",
+        "+page.js": "_file_script_page",
+        "+server.ts": "_file_script_server",
+        "+server.js": "_file_script_server"
+    },
+    "light": {
+        "file": "_file_default_light"
+    }
+}

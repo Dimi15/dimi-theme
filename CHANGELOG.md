@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 #
 
+**v1.0.8**
+
+> 21 August 2023
+
+-   Added File Icon Theme (extended version of the Seti Icon Pack with folders).
+-   Updated README.md.
+
 **v1.0.7**
 
 > 16 August 2023
