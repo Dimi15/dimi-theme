@@ -4,8 +4,8 @@
     "description": "A Dark Theme based on the Nord Palette.",
     "version": "1.0.9",
     "publisher": "Dimi",
-    "pricing": "Free",
     "license": "MIT",
+    "pricing": "Free",
     "icon": "img/themeLogo/icon.png",
     "sponsor": {
         "url": "https://github.com/Dimi15"
