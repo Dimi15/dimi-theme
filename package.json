@@ -55,7 +55,8 @@
         "icons",
         "icon pack",
         "seti",
-        "minimal"
+        "minimal",
+        "minimalist"
     ],
     "repository": {
         "type": "git",
