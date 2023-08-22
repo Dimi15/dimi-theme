@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 #
 
+**v1.0.9**
+
+> 22 August 2023
+
+-   Added the colour palettes for all the theme variants.
+-   Updated cardLogo.
+-   Updated README.md.
+
 **v1.0.8**
 
 > 21 August 2023
